@@ -1,5 +1,5 @@
 {
-  "name": "x",
+  "name": "x-solidity",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
